@@ -14,7 +14,7 @@ Fully autonomous line follower robot designed and built from scratch for **Zilel
 
 ## 🏆 Competition
 
-**Zilele Educației Mecanice (ZEM)** is a national-level competition organized between Mechatronics faculties across Romania. Teams design and build autonomous robots from scratch, then compete live — requiring real-time hardware and software adjustments on the competition floor under pressure.
+**Zilele Educației Mecanice (ZEM)** is a national-level competition organized between Mechatronics faculties across Romania. Teams design and build autonomous robots from scratch, then compete live - requiring real-time hardware and software adjustments on the competition floor under pressure.
 
 ---
 
