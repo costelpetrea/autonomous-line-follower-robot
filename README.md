@@ -44,7 +44,7 @@ Fully autonomous line follower robot designed and built from scratch for **Zilel
 
 ---
 
-## 💻 Firmware
+## 💻 Firmware(SOON)
 
 - Written from scratch for ESP32-S3
 - **PID control loop** for line following using QTR-8A weighted centroid position
@@ -53,9 +53,9 @@ Fully autonomous line follower robot designed and built from scratch for **Zilel
 
 ---
 
-## 🔩 Mechanical Design
+## 🔩 Mechanical Design(SOON)
 
-- Full robot chassis modeled in SolidWorks
+- Full robot chassis modeled in Fusion360
 - Designed for low center of gravity and sensor bar alignment
 - Custom mounts for PCB, motors, and sensor array
 - Parts manufactured via 3D printing
@@ -78,7 +78,7 @@ Fully autonomous line follower robot designed and built from scratch for **Zilel
 
 ---
 
-## 📁 What's in This Repo
+## 📁 What's in This Repo(Ongoing project, not yet completed)
 
 - `pcb/` — Altium Designer project files (schematic + layout)
 - `firmware/` — ESP32-S3 source code (PID, encoder, sensor routines)
@@ -87,7 +87,7 @@ Fully autonomous line follower robot designed and built from scratch for **Zilel
 
 ---
 
-## 🧠 What I Learned
+## 🧠 What I Am Learning
 
 - Full PCB design cycle: schematic → layout → fabrication → assembly → test
 - SMD soldering and board bring-up from scratch
