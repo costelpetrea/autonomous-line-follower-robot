@@ -72,7 +72,7 @@ Fully autonomous line follower robot designed and built from scratch for **Zilel
 | Motors | N20 with encoders |
 | Line sensor | QTR-8A (array) |
 | Extra sensors | Hall effect, distance, QTR-1A |
-| CAD | SolidWorks, Fusion 360 |
+| CAD | Fusion 360 |
 | Manufacturing | Custom PCB + 3D printed chassis |
 | Firmware | C++ |
 
@@ -100,4 +100,4 @@ Fully autonomous line follower robot designed and built from scratch for **Zilel
 
 ## 📅 Ongoing
 
-**2026** | National competition — Zilele Educației Mecanice | UNSTPB Bucharest
+**2026** | National competition — Zilele Educației Mecatronice
