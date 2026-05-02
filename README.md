@@ -82,7 +82,7 @@ Fully autonomous line follower robot designed and built from scratch for **Zilel
 
 - `pcb/` — Altium Designer project files (schematic + layout)
 - `firmware/` — ESP32-S3 source code (PID, encoder, sensor routines)
-- `cad/` — SolidWorks chassis files
+- `cad/` — FUSION 360 chassis files
 - `photos/` — PCB, assembled robot, competition photos
 
 ---
