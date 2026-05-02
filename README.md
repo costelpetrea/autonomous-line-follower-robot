@@ -21,7 +21,7 @@ Fully autonomous line follower robot designed and built from scratch for **Zilel
 ## ⚙️ Hardware Architecture
 
 ### 🧠 Microcontroller
-- **ESP32-S3 WROOM-1 N8R8** - dual-core 240MHz, 8MB flash, 8MB PSRAM, WiFi + BLE for wireless tuning and telemetry
+- **ESP32-S3 WROOM-1U N8R8** - dual-core 240MHz, 8MB flash, 8MB PSRAM, WiFi + BLE for wireless tuning and telemetry
 
 ### 🔌 Motor Driver
 - **DRV8833** - dual H-bridge motor driver integrated directly on the PCB, controlling two N20 motors
@@ -67,7 +67,7 @@ Fully autonomous line follower robot designed and built from scratch for **Zilel
 | Category | Details |
 |----------|---------|
 | PCB Design | Altium Designer |
-| MCU | ESP32-S3 WROOM-1 N8R8 |
+| MCU | ESP32-S3 WROOM-1U N8R8 |
 | Motor driver | DRV8833 (on-board) |
 | Motors | N20 with encoders |
 | Line sensor | QTR-8A (array) |
