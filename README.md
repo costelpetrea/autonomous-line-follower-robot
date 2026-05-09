@@ -2,13 +2,13 @@
 
 ![Competition](https://img.shields.io/badge/Competition-Zilele_Educației_Mecanice-orange?style=flat-square)
 ![National](https://img.shields.io/badge/Level-Național-red?style=flat-square)
-![Altium](https://img.shields.io/badge/PCB-Altium_Designer-A5915F?style=flat-square)
-![ESP32-S3](https://img.shields.io/badge/MCU-ESP32--S3_WROOM--1_N8R8-blueviolet?style=flat-square)
-![DRV8833](https://img.shields.io/badge/Driver-DRV8833-green?style=flat-square)
-![Custom PCB](https://img.shields.io/badge/Hardware-Custom_PCB-blue?style=flat-square)
-![SolidWorks](https://img.shields.io/badge/CAD-SolidWorks-red?style=flat-square)
+![Altium](https://img.shields.io/badge/PCB-Altium_Designer-A5915F?style=flat-square&logo=altiumdesigner&logoColor=white)
+![ESP32-S3](https://img.shields.io/badge/MCU-ESP32--S3_WROOM--1_N8R8-blueviolet?style=flat-square&logo=espressif&logoColor=white)
+![DRV8833](https://img.shields.io/badge/Driver-DRV8833-green?style=flat-square&logo=texasinstruments&logoColor=white)
+![Custom PCB](https://img.shields.io/badge/Hardware-Custom_PCB-blue?style=flat-square&logo=pcbway&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/CAD-Fusion%20360-FF6D00?style=flat-square&logo=autodesk&logoColor=white)
 
-Fully autonomous line follower robot designed and built from scratch for **Zilele Educației Mecanice (ZEM)** - a national mechatronics competition between Romanian engineering faculties. Everything is custom: PCB designed in Altium Designer, mechanical structure modeled in CAD, firmware written from scratch, and assembled and tuned by hand.
+Fully autonomous line follower robot designed and built from scratch for **Zilele Educației Mecatronice (ZEM)** - a national mechatronics competition between Romanian engineering faculties. Everything is custom: PCB designed in Altium Designer, mechanical structure modeled in CAD, firmware written from scratch, and assembled and tuned by hand.
 
 ---
 
