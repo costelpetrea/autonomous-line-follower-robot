@@ -53,7 +53,7 @@ Fully autonomous line follower robot designed and built from scratch for **Zilel
 
 ---
 
-## 🔩 Mechanical Design(SOON)
+## 🔩 Mechanical Design
 
 - Full robot chassis modeled in Fusion360
 - Designed for low center of gravity and sensor bar alignment
