@@ -21,7 +21,7 @@ Fully autonomous line follower robot designed and built from scratch for **Zilel
 ## ⚙️ Hardware Architecture
 
 ### 🧠 Microcontroller
-- **ESP32-S3 WROOM-1U N8R8** - dual-core 240MHz, 8MB flash, 8MB PSRAM, WiFi + BLE for wireless tuning and telemetry
+- **ESP32-S3 WROOM-1U N8R8** - dual-core 240MHz, 8MB flash, 8MB PSRAM, tuning and telemetry
 
 ### 🔌 Motor Driver
 - **DRV8833** - dual H-bridge motor driver integrated directly on the PCB, controlling two N20 motors
