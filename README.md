@@ -1,7 +1,7 @@
 # Autonomous Line Follower Robot - ZEM 2026
 
 ![Competition](https://img.shields.io/badge/Competition-Zilele_Educației_Mecatronice-orange?style=flat-square)
-![National](https://img.shields.io/badge/Level-Național-red?style=flat-square)
+![National](https://img.shields.io/badge/Level-National-red?style=flat-square)
 ![Altium](https://img.shields.io/badge/PCB-Altium_Designer-A5915F?style=flat-square&logo=altiumdesigner&logoColor=white)
 ![ESP32-S3](https://img.shields.io/badge/MCU-ESP32--S3_WROOM--1_N8R8-blueviolet?style=flat-square&logo=espressif&logoColor=white)
 ![DRV8833](https://img.shields.io/badge/Driver-DRV8833-green?style=flat-square&logo=texasinstruments&logoColor=white)
