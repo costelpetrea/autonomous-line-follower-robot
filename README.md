@@ -44,7 +44,7 @@ Fully autonomous line follower robot designed and built from scratch for **Zilel
 
 ---
 
-## 💻 Firmware(SOON)
+## 💻 Firmware
 
 - Written from scratch for ESP32-S3
 - **PID control loop** for line following using QTR-8A weighted centroid position
