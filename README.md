@@ -88,7 +88,7 @@ Fully autonomous line follower robot designed and built from scratch for **Zilel
 
 ---
 
-## 🧠 What I Am Learning
+## 🧠 What I Learned
 
 - Full PCB design cycle: schematic → layout → fabrication → assembly → test
 - SMD soldering and board bring-up from scratch
